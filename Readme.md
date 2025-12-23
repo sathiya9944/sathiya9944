@@ -56,21 +56,7 @@
 
 ---
 
-## 🪐 GitHub Galaxy Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathiya9944&show_icons=true&theme=tokyonight&border_radius=15&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiya9944&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathiya9944&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
 
 ### 🌠 Little Fun Cosmic Facts
 - I love solving logical problems under moonlight 🌙  
@@ -84,3 +70,4 @@
   <sub>— A cosmic coder building in silence, shining in commits ✨</sub>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66fff0,100:3b3bff&height=100&section=footer&text=🌌+Thanks+for+Visiting+My+Universe!+🌠&fontColor=ffffff&fontSize=22"/>
 </p>
+
