@@ -17,23 +17,30 @@
 
 
 ### 🚀 Languages & Technologies in My Starship
-
 <p align="center">
 
   <img src="https://img.shields.io/badge/Java-1e1e2f?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=29293d" />
-  <img src="https://img.shields.io/badge/C%23-1e1e2f?style=for-the-badge&logo=c-sharp&logoColor=purple&labelColor=29293d" />  
-  <img src="https://img.shields.io/badge/.NET-C%23-99CC00?style=flat&logo=.net&logoColor=white" />
 
+
+
+  <img src="https://img.shields.io/badge/.NET-1e1e2f?style=for-the-badge&logo=.net&logoColor=white&labelColor=29293d" />
 
   <img src="https://img.shields.io/badge/JavaScript-1e1e2f?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=29293d" />
+
   <img src="https://img.shields.io/badge/MySQL-1e1e2f?style=for-the-badge&logo=mysql&logoColor=4479a1&labelColor=29293d" />
-  <img src="https://img.shields.io/badge/MongoDB-1e1e2f?style=for-the-badge&logo=mongodb&logoColor=c8e6c9&labelColor=29293d" />
-  <img src="https://img.shields.io/badge/React.js-1e1e2f?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=29293d" />
+
+  <img src="https://img.shields.io/badge/MongoDB-1e1e2f?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=29293d" />
+
+  <img src="https://img.shields.io/badge/React-1e1e2f?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=29293d" />
+
   <img src="https://img.shields.io/badge/Express-1e1e2f?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=29293d" />
-  <img src="https://img.shields.io/badge/Node.js-1e1e2f?style=for-the-badge&logo=node.js&logoColor=b9f6ca&labelColor=29293d" />  
+
+  <img src="https://img.shields.io/badge/Node.js-1e1e2f?style=for-the-badge&logo=node.js&logoColor=3C873A&labelColor=29293d" />
+
   <img src="https://img.shields.io/badge/Flutter-1e1e2f?style=for-the-badge&logo=flutter&logoColor=80d8ff&labelColor=29293d" />
 
 </p>
+
 
 
 ---
@@ -72,6 +79,7 @@
   <sub>— A cosmic coder building in silence, shining in commits ✨</sub>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66fff0,100:3b3bff&height=100&section=footer&text=🌌+Thanks+for+Visiting+My+Universe!+🌠&fontColor=ffffff&fontSize=22"/>
 </p>
+
 
 
 
