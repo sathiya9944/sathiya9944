@@ -21,6 +21,8 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/C%23-1e1e2f?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=29293d" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+
 
   <img src="https://img.shields.io/badge/Java-1e1e2f?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=29293d" />
 
@@ -72,6 +74,7 @@
   <sub>— A cosmic coder building in silence, shining in commits ✨</sub>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66fff0,100:3b3bff&height=100&section=footer&text=🌌+Thanks+for+Visiting+My+Universe!+🌠&fontColor=ffffff&fontSize=22"/>
 </p>
+
 
 
 
