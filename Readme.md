@@ -20,8 +20,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=29293d" />
-  <img src="https://img.shields.io/badge/C%23-1e1e2f?style=for-the-badge&logo=c-sharp&logoColor=9b59b6&labelColor=29293d" />
+
   <img src="https://img.shields.io/badge/JavaScript-1e1e2f?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=29293d" />
   <img src="https://img.shields.io/badge/MySQL-1e1e2f?style=for-the-badge&logo=mysql&logoColor=4479a1&labelColor=29293d" />
   <img src="https://img.shields.io/badge/MongoDB-1e1e2f?style=for-the-badge&logo=mongodb&logoColor=c8e6c9&labelColor=29293d" />
@@ -69,6 +68,7 @@
   <sub>— A cosmic coder building in silence, shining in commits ✨</sub>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66fff0,100:3b3bff&height=100&section=footer&text=🌌+Thanks+for+Visiting+My+Universe!+🌠&fontColor=ffffff&fontSize=22"/>
 </p>
+
 
 
 
