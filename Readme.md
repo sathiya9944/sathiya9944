@@ -21,6 +21,8 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/-Java-1e1e2f?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1e1e2f?style=for-the-badge&logo=java&logoColor=orange&labelColor=29293d" />
+
   <img src="https://img.shields.io/badge/JavaScript-1e1e2f?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=29293d" />
   <img src="https://img.shields.io/badge/MySQL-1e1e2f?style=for-the-badge&logo=mysql&logoColor=4479a1&labelColor=29293d" />
   <img src="https://img.shields.io/badge/MongoDB-1e1e2f?style=for-the-badge&logo=mongodb&logoColor=c8e6c9&labelColor=29293d" />
@@ -68,6 +70,7 @@
   <sub>— A cosmic coder building in silence, shining in commits ✨</sub>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66fff0,100:3b3bff&height=100&section=footer&text=🌌+Thanks+for+Visiting+My+Universe!+🌠&fontColor=ffffff&fontSize=22"/>
 </p>
+
 
 
 
