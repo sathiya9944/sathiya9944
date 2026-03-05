@@ -7,7 +7,7 @@
 <h3 align="center">Software Developer 🌟</h3>
 
 <p align="center">
-  I travel through the stars of Java, launch Flutter rockets, and deploy ideas into the cloud ☁️  
+  I travel through the stars of Java, launch Flutter and MERN rockets, and deploy ideas into the cloud ☁️  
   Fueled by curiosity, passion   
 </p>
 
@@ -20,7 +20,6 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/Java-1e1e2f?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=29293d" />
-
 
 
   <img src="https://img.shields.io/badge/.NET-1e1e2f?style=for-the-badge&logo=.net&logoColor=white&labelColor=29293d" />
@@ -46,6 +45,8 @@
 ---
 
 ### 🌌 Highlighted Missions
+
+-Learning Management System
 
 -Shopper Ecommerce
 
@@ -79,6 +80,7 @@
   <sub>— A cosmic coder building in silence, shining in commits ✨</sub>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66fff0,100:3b3bff&height=100&section=footer&text=🌌+Thanks+for+Visiting+My+Universe!+🌠&fontColor=ffffff&fontSize=22"/>
 </p>
+
 
 
 
